@@ -1,4 +1,7 @@
-# AngularAppResolverExample
+
+![ScreenRecording2024-02-03at15 04 09-ezgif com-video-to-gif-converter](https://github.com/lonewolfzak/angular-17-app-initializer-example/assets/49722575/ae9dab9e-19c1-4ade-8627-32cbdcc4e914)
+
+# Angular app initializer exmaple
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
 
